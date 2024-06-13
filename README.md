@@ -82,3 +82,38 @@ Mixing this with the everyday user and film professionals would open up capabili
 * Why are these technologies appropriate for your solution?
 
 At the end of the day this tool is used to generate and edit high quality videos, the people that could most benefit from that are the people using it on a daily basis. There’s a reason why Adobe is by far the leading editing platform, because of the capabilities and professionalism it allows you. We are just beginning to scratch the surface of generative AI video production. The capabilities of what people could use this for will keep expanding as more and more people lean into the use of AI and the things it can allow us to create and do. They have seemingly mastered or at least are the front runner when it comes to idea-to-video generation, but they have a lot they could advance on in terms of video editing specifically. Something their current demographic doesn't have a need for, but could open up the door to a lot more users without isolating your original adopters.
+
+
+## Addendum
+
+https://www.businessinsider.com/ai-video-generator-pika-funding-series-b-700-million-2024-6
+https://www.bloomberg.com/news/articles/2024-06-05/spark-capital-jared-leto-back-ai-video-startup-pika
+https://www.washingtonpost.com/technology/2024/06/04/pika-funding-openai-sora-google-video/
+https://pika.art/blog
+https://www.wappalyzer.com/lookup/pika.art/
+https://medium.com/@erikfadiman/runwayml-vs-pika-labs-throwdown-db78f22b1825
+https://www.tomsguide.com/news/pika-labs-begins-rollout-of-its-new-ai-video-model-heres-why-this-is-big#:~:text=Artificial%20intelligence%20video%20company%20Pika,%2C%20images%2C%20or%20other%20videos.
+https://www.analyticsvidhya.com/blog/2023/11/pika-1-0-a-new-ai-model-for-video-creation/#:~:text=Pika's%20ambitious%20goal%20of%20simplifying,tool%20that%20extends%20video%20length%2C
+https://www.reddit.com/r/singularity/comments/185yapi/pika_labs_introducing_pika_10_ai_video_generator/
+https://pika.art/home
+https://connect.comptia.org/blog/artificial-intelligence-statistics-facts
+https://discord.com/guild-discovery?query=pika&offset=0&limit=12&preferredLocale=en-US&categoryId=-1&tag=
+https://tiancaixinxin.medium.com/how-pika-got-500k-discord-members-in-4-months-a9cc892720a8#:~:text=Discord%20channels&text=Pika%20launched%20theirs%20at%20the,of%20which%2040k%2B%20are%20online.
+https://www.linkedin.com/pulse/announcing-pika-55million-palo-alto-startup-disrupting-world-7f7bc
+https://www.crunchbase.com/organization/pika-2a05/technology
+https://tinloof.com/work/pika
+https://pikalabs.org/
+https://fredsoda.medium.com/an-assay-of-the-modern-ai-tech-stack-bb02ed7cf105
+https://www.tomsguide.com/news/pika-labs-new-generative-ai-video-tool-unveiled-and-it-looks-like-a-big-deal
+https://talkdigital.com.au/ai/pika-ai-transforming-video-editing/
+https://www.cybergen.com/blog/pika-latest-idea-to-video-platform-jaw-dropping-features
+https://www.xccelerate.co/blog/demystifying-the-magic-how-ai-video-generators-work-featuring-pika-10
+https://stackoverflow.com/questions/48524536/can-anyone-please-tell-me-what-are-the-differences-between-pika-and-kombu-messag
+https://www.quora.com/Do-you-think-Pika-Labs-AI-powered-platform-will-attract-more-users-than-other-generative-AI-video-tools-and-models-Why-or-why-not
+https://www.reddit.com/r/singularity/comments/151p0s0/pika_labs_future_of_ai_video_animation/?rdt=41580
+https://lsvp.com/stories/pikas-imagination-engine/
+https://www.inc.com/ben-sherry/how-this-26-year-old-first-time-founder-raised-55-million-for-her-ai-startup.html
+https://www.inc.com/ben-sherry/ai-startup-anthropic-just-released-new-tools-for-businesses.html
+https://www.bloomberg.com/features/2024-tech-ones-to-watch/?embedded-checkout=true&leadSource=uverify%20wall
+https://www.forbes.com/sites/charliefink/2024/06/06/apples-upcoming-ai-reveal-pika-labs-raises-80-million-twelve-labs-50-million/
+https://www.forbes.com/sites/kenrickcai/2023/11/27/pika-ai-video-generator-editor-series-a/
